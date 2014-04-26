@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26330" started-at="2014-04-26T12:30:51Z" finished-at="2014-04-26T12:31:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26330" started-at="2014-04-26T12:30:51Z" finished-at="2014-04-26T12:31:17Z">
+      <class name="com.example.tests.SighUpUser">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.example.tests.SighUpUser@14ebadd]" name="setUp" is-config="true" duration-ms="24" started-at="2014-04-26T16:30:51Z" finished-at="2014-04-26T16:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createMailUser()[pri:0, instance:com.example.tests.SighUpUser@14ebadd]" name="createMailUser" is-config="true" duration-ms="21912" started-at="2014-04-26T16:30:51Z" finished-at="2014-04-26T16:31:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createMailUser -->
+        <test-method status="PASS" signature="newUserSignUp()[pri:0, instance:com.example.tests.SighUpUser@14ebadd]" name="newUserSignUp" duration-ms="4052" started-at="2014-04-26T16:31:13Z" finished-at="2014-04-26T16:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newUserSignUp -->
+        <test-method status="PASS" signature="deleteMailUser()[pri:0, instance:com.example.tests.SighUpUser@14ebadd]" name="deleteMailUser" is-config="true" duration-ms="35" started-at="2014-04-26T16:31:17Z" finished-at="2014-04-26T16:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteMailUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.example.tests.SighUpUser@14ebadd]" name="tearDown" is-config="true" duration-ms="279" started-at="2014-04-26T16:31:17Z" finished-at="2014-04-26T16:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.tests.SighUpUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
